@@ -1,0 +1,9 @@
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\bin\WebServices.WCF.dll.config
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\bin\WebServices.WCF.dll
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\bin\WebServices.WCF.pdb
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\bin\Data.dll
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\bin\Data.pdb
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\obj\Debug\WebServices.WCF.csprojResolveAssemblyReference.cache
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\obj\Debug\WebServices.WCF.csproj.CoreCompileInputs.cache
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\obj\Debug\WebServices.WCF.dll
+C:\Users\Awesome\source\repos\WebService.WCF\WebServices.WCF\obj\Debug\WebServices.WCF.pdb
